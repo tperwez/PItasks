@@ -7,3 +7,4 @@
       http://127.0.0.1:52000/action=multiply&number1=1034&number2=21
       http://127.0.0.1:52000/action=subtract&number1=1034&number2=21
 2. For running the angular calculator, download the file, unzip it and then run the "calculator.html" in any browser.
+3. For running the calci_node download the file unzip it and then open command line in the directory where the file is saved and then run    command "node calci_node.js" and then go to your browser and type in this URL:- "http://localhost:5040"
